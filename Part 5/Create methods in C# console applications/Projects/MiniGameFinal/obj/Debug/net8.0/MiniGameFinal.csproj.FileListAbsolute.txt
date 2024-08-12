@@ -1,0 +1,15 @@
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.AssemblyInfoInputs.cache
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.AssemblyInfo.cs
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.sourcelink.json
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\bin\Debug\net8.0\MiniGameFinal.exe
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\bin\Debug\net8.0\MiniGameFinal.deps.json
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\bin\Debug\net8.0\MiniGameFinal.runtimeconfig.json
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\bin\Debug\net8.0\MiniGameFinal.dll
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\bin\Debug\net8.0\MiniGameFinal.pdb
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.dll
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\refint\MiniGameFinal.dll
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.pdb
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\MiniGameFinal.genruntimeconfig.cache
+C:\Users\PC-GEN01\Desktop\curso c#\Part 5\Create methods in C# console applications\Projects\MiniGameFinal\obj\Debug\net8.0\ref\MiniGameFinal.dll
