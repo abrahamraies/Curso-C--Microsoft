@@ -23,13 +23,13 @@ class Game
 
     // Game state variables
     static bool isPaused = false;
-    static Timer gameTimer;
+    static System.Timers.Timer gameTimer;
 
     static void Main()
     {
         SetupGame();
 
-        gameTimer = new Timer(100); // Set game speed
+        gameTimer = new System.Timers.Timer(100); // Set game speed
         gameTimer.Elapsed += (sender, e) => GameLoop();
         gameTimer.Start();
 
