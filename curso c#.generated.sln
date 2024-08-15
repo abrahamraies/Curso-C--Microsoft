@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part 5", "Part 5", "{83D7D7E0-A011-43E4-98D7-8509EA756274}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Create methods in C# console applications", "Create methods in C# console applications", "{E599E8DD-13B6-4EC5-B726-B2D09A246E1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{AA9555DF-388A-4CE0-8C5E-D81AED795EBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniGameFinal", "Part 5\Create methods in C# console applications\Projects\MiniGameFinal\MiniGameFinal.csproj", "{62FF76F3-5D1B-43C7-8F61-9B9DA9DCD622}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Part 6", "Part 6", "{23B145A1-051E-412D-8536-A5086079CE94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Debug C# console applications", "Debug C# console applications", "{FE060CA0-F3C5-4DB5-BC1F-2A1494F9035E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projects", "Projects", "{5900BBC9-9110-45D6-ADDD-5F5B23D5B8CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debug101", "Part 6\Debug C# console applications\Projects\Debug101\Debug101.csproj", "{1DEEBB52-A622-4667-AA98-7D4917E0313C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FF76F3-5D1B-43C7-8F61-9B9DA9DCD622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FF76F3-5D1B-43C7-8F61-9B9DA9DCD622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FF76F3-5D1B-43C7-8F61-9B9DA9DCD622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FF76F3-5D1B-43C7-8F61-9B9DA9DCD622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEEBB52-A622-4667-AA98-7D4917E0313C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEEBB52-A622-4667-AA98-7D4917E0313C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEEBB52-A622-4667-AA98-7D4917E0313C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEEBB52-A622-4667-AA98-7D4917E0313C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E599E8DD-13B6-4EC5-B726-B2D09A246E1A} = {83D7D7E0-A011-43E4-98D7-8509EA756274}
+		{AA9555DF-388A-4CE0-8C5E-D81AED795EBF} = {E599E8DD-13B6-4EC5-B726-B2D09A246E1A}
+		{62FF76F3-5D1B-43C7-8F61-9B9DA9DCD622} = {AA9555DF-388A-4CE0-8C5E-D81AED795EBF}
+		{FE060CA0-F3C5-4DB5-BC1F-2A1494F9035E} = {23B145A1-051E-412D-8536-A5086079CE94}
+		{5900BBC9-9110-45D6-ADDD-5F5B23D5B8CE} = {FE060CA0-F3C5-4DB5-BC1F-2A1494F9035E}
+		{1DEEBB52-A622-4667-AA98-7D4917E0313C} = {5900BBC9-9110-45D6-ADDD-5F5B23D5B8CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B543F4AD-5995-4826-8240-064CFCB827C2}
+	EndGlobalSection
+EndGlobal

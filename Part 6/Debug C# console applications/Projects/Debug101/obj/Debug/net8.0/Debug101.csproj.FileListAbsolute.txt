@@ -1,0 +1,15 @@
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\bin\Debug\net8.0\Debug101.exe
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\bin\Debug\net8.0\Debug101.deps.json
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\bin\Debug\net8.0\Debug101.runtimeconfig.json
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\bin\Debug\net8.0\Debug101.dll
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\bin\Debug\net8.0\Debug101.pdb
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfoInputs.cache
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfo.cs
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.csproj.CoreCompileInputs.cache
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.sourcelink.json
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.dll
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\refint\Debug101.dll
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.pdb
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\Debug101.genruntimeconfig.cache
+c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\obj\Debug\net8.0\ref\Debug101.dll
