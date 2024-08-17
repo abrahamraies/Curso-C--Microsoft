@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Debug101
-build_property.ProjectDir = c:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\
+build_property.ProjectDir = C:\Users\PC-GEN01\Desktop\curso c#\Part 6\Debug C# console applications\Projects\Debug101\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj": {}
+    "C:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj": {
+    "C:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj",
+        "projectUniqueName": "C:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj",
         "projectName": "Debug101",
-        "projectPath": "c:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj",
+        "projectPath": "C:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\Debug101.csproj",
         "packagesPath": "C:\\Users\\PC-GEN01\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\obj\\",
+        "outputPath": "C:\\Users\\PC-GEN01\\Desktop\\curso c#\\Part 6\\Debug C# console applications\\Projects\\Debug101\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC-GEN01\\AppData\\Roaming\\NuGet\\NuGet.Config",
